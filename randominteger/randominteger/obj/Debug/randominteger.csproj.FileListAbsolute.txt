@@ -1,0 +1,13 @@
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\bin\Debug\randominteger.exe.config
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\bin\Debug\randominteger.exe
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\bin\Debug\randominteger.pdb
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\obj\Debug\randominteger.csprojResolveAssemblyReference.cache
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\obj\Debug\randominteger.Form1.resources
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\obj\Debug\randominteger.Properties.Resources.resources
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\obj\Debug\randominteger.csproj.GenerateResource.Cache
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\obj\Debug\randominteger.exe
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\obj\Debug\randominteger.pdb
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\bin\Debug\randominteger.exe.manifest
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\bin\Debug\randominteger.application
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\obj\Debug\randominteger.exe.manifest
+C:\Users\HONOR\Desktop\vsprograms\randominteger\randominteger\obj\Debug\randominteger.application

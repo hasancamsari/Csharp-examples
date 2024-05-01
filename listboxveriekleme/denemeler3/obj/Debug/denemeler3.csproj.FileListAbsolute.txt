@@ -1,0 +1,9 @@
+C:\Users\HONOR\Desktop\vsprograms\denemeler3\denemeler3\bin\Debug\denemeler3.exe.config
+C:\Users\HONOR\Desktop\vsprograms\denemeler3\denemeler3\bin\Debug\denemeler3.exe
+C:\Users\HONOR\Desktop\vsprograms\denemeler3\denemeler3\bin\Debug\denemeler3.pdb
+C:\Users\HONOR\Desktop\vsprograms\denemeler3\denemeler3\obj\Debug\denemeler3.csprojResolveAssemblyReference.cache
+C:\Users\HONOR\Desktop\vsprograms\denemeler3\denemeler3\obj\Debug\denemeler3.Form1.resources
+C:\Users\HONOR\Desktop\vsprograms\denemeler3\denemeler3\obj\Debug\denemeler3.Properties.Resources.resources
+C:\Users\HONOR\Desktop\vsprograms\denemeler3\denemeler3\obj\Debug\denemeler3.csproj.GenerateResource.Cache
+C:\Users\HONOR\Desktop\vsprograms\denemeler3\denemeler3\obj\Debug\denemeler3.exe
+C:\Users\HONOR\Desktop\vsprograms\denemeler3\denemeler3\obj\Debug\denemeler3.pdb
