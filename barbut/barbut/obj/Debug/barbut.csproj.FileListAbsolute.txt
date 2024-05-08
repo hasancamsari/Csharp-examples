@@ -1,0 +1,9 @@
+C:\Users\HONOR\Desktop\vsprograms\barbut\barbut\bin\Debug\barbut.exe.config
+C:\Users\HONOR\Desktop\vsprograms\barbut\barbut\obj\Debug\barbut.csprojResolveAssemblyReference.cache
+C:\Users\HONOR\Desktop\vsprograms\barbut\barbut\obj\Debug\barbut.Form1.resources
+C:\Users\HONOR\Desktop\vsprograms\barbut\barbut\obj\Debug\barbut.Properties.Resources.resources
+C:\Users\HONOR\Desktop\vsprograms\barbut\barbut\obj\Debug\barbut.csproj.GenerateResource.Cache
+C:\Users\HONOR\Desktop\vsprograms\barbut\barbut\bin\Debug\barbut.exe
+C:\Users\HONOR\Desktop\vsprograms\barbut\barbut\bin\Debug\barbut.pdb
+C:\Users\HONOR\Desktop\vsprograms\barbut\barbut\obj\Debug\barbut.exe
+C:\Users\HONOR\Desktop\vsprograms\barbut\barbut\obj\Debug\barbut.pdb
