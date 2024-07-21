@@ -1,0 +1,11 @@
+C:\Users\HONOR\Desktop\vsprograms\harac\bin\Debug\harac.exe.config
+C:\Users\HONOR\Desktop\vsprograms\harac\bin\Debug\harac.exe
+C:\Users\HONOR\Desktop\vsprograms\harac\bin\Debug\harac.pdb
+C:\Users\HONOR\Desktop\vsprograms\harac\obj\Debug\harac.csprojResolveAssemblyReference.cache
+C:\Users\HONOR\Desktop\vsprograms\harac\obj\Debug\harac.Form1.resources
+C:\Users\HONOR\Desktop\vsprograms\harac\obj\Debug\harac.Properties.Resources.resources
+C:\Users\HONOR\Desktop\vsprograms\harac\obj\Debug\harac.csproj.GenerateResource.Cache
+C:\Users\HONOR\Desktop\vsprograms\harac\obj\Debug\harac.exe
+C:\Users\HONOR\Desktop\vsprograms\harac\obj\Debug\harac.pdb
+C:\Users\HONOR\Desktop\vsprograms\harac\obj\Debug\harac.Form2.resources
+C:\Users\HONOR\Desktop\vsprograms\harac\obj\Debug\harac.Form3.resources
