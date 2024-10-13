@@ -1,0 +1,9 @@
+C:\Users\HONOR\Desktop\vsprograms\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\HONOR\Desktop\vsprograms\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\HONOR\Desktop\vsprograms\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\HONOR\Desktop\vsprograms\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\HONOR\Desktop\vsprograms\sifreleme\obj\Debug\sifreleme.Form1.resources
+C:\Users\HONOR\Desktop\vsprograms\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\HONOR\Desktop\vsprograms\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\HONOR\Desktop\vsprograms\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\HONOR\Desktop\vsprograms\sifreleme\obj\Debug\sifreleme.pdb
