@@ -1,0 +1,9 @@
+C:\Users\HONOR\Desktop\vsprograms\2li_sistem_cevir\bin\Debug\2li_sistem_cevir.exe.config
+C:\Users\HONOR\Desktop\vsprograms\2li_sistem_cevir\bin\Debug\2li_sistem_cevir.exe
+C:\Users\HONOR\Desktop\vsprograms\2li_sistem_cevir\bin\Debug\2li_sistem_cevir.pdb
+C:\Users\HONOR\Desktop\vsprograms\2li_sistem_cevir\obj\Debug\2li_sistem_cevir.csprojResolveAssemblyReference.cache
+C:\Users\HONOR\Desktop\vsprograms\2li_sistem_cevir\obj\Debug\_2li_sistem_cevir.Form1.resources
+C:\Users\HONOR\Desktop\vsprograms\2li_sistem_cevir\obj\Debug\_2li_sistem_cevir.Properties.Resources.resources
+C:\Users\HONOR\Desktop\vsprograms\2li_sistem_cevir\obj\Debug\2li_sistem_cevir.csproj.GenerateResource.Cache
+C:\Users\HONOR\Desktop\vsprograms\2li_sistem_cevir\obj\Debug\2li_sistem_cevir.exe
+C:\Users\HONOR\Desktop\vsprograms\2li_sistem_cevir\obj\Debug\2li_sistem_cevir.pdb
