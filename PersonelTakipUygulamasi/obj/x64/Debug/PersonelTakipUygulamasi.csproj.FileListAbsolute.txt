@@ -1,0 +1,10 @@
+C:\Users\HONOR\Desktop\vsprograms\PersonelTakipUygulamasi\bin\x64\Debug\PersonelTakipUygulamasi.exe.config
+C:\Users\HONOR\Desktop\vsprograms\PersonelTakipUygulamasi\bin\x64\Debug\PersonelTakipUygulamasi.exe
+C:\Users\HONOR\Desktop\vsprograms\PersonelTakipUygulamasi\bin\x64\Debug\PersonelTakipUygulamasi.pdb
+C:\Users\HONOR\Desktop\vsprograms\PersonelTakipUygulamasi\obj\x64\Debug\PersonelTakipUygulamasi.Form1.resources
+C:\Users\HONOR\Desktop\vsprograms\PersonelTakipUygulamasi\obj\x64\Debug\PersonelTakipUygulamasi.Form2.resources
+C:\Users\HONOR\Desktop\vsprograms\PersonelTakipUygulamasi\obj\x64\Debug\PersonelTakipUygulamasi.Form3.resources
+C:\Users\HONOR\Desktop\vsprograms\PersonelTakipUygulamasi\obj\x64\Debug\PersonelTakipUygulamasi.Properties.Resources.resources
+C:\Users\HONOR\Desktop\vsprograms\PersonelTakipUygulamasi\obj\x64\Debug\PersonelTakipUygulamasi.csproj.GenerateResource.Cache
+C:\Users\HONOR\Desktop\vsprograms\PersonelTakipUygulamasi\obj\x64\Debug\PersonelTakipUygulamasi.exe
+C:\Users\HONOR\Desktop\vsprograms\PersonelTakipUygulamasi\obj\x64\Debug\PersonelTakipUygulamasi.pdb
