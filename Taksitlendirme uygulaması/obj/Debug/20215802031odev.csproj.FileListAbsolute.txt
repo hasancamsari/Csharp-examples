@@ -1,0 +1,10 @@
+C:\Users\HONOR\Desktop\vsprograms\20215802031odev\bin\Debug\20215802031odev.exe.config
+C:\Users\HONOR\Desktop\vsprograms\20215802031odev\bin\Debug\20215802031odev.exe
+C:\Users\HONOR\Desktop\vsprograms\20215802031odev\bin\Debug\20215802031odev.pdb
+C:\Users\HONOR\Desktop\vsprograms\20215802031odev\obj\Debug\20215802031odev.csprojResolveAssemblyReference.cache
+C:\Users\HONOR\Desktop\vsprograms\20215802031odev\obj\Debug\_20215802031odev.Form1.resources
+C:\Users\HONOR\Desktop\vsprograms\20215802031odev\obj\Debug\_20215802031odev.Properties.Resources.resources
+C:\Users\HONOR\Desktop\vsprograms\20215802031odev\obj\Debug\20215802031odev.csproj.GenerateResource.Cache
+C:\Users\HONOR\Desktop\vsprograms\20215802031odev\obj\Debug\20215802031odev.exe
+C:\Users\HONOR\Desktop\vsprograms\20215802031odev\obj\Debug\20215802031odev.pdb
+C:\Users\HONOR\Desktop\vsprograms\20215802031odev\obj\Debug\_20215802031odev.Form2.resources
