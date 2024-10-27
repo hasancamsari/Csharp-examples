@@ -105,7 +105,7 @@ namespace blackjack
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (0 < bakiye || 500 <= bakiye)
+            if (500 <= bakiye)
             {
                 bahis += 500;
                 bakiye -= 500;
@@ -120,7 +120,7 @@ namespace blackjack
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (0 < bakiye || 1000 <= bakiye)
+            if (1000 <= bakiye)
             {
                 bahis += 1000;
                 bakiye -= 1000;
@@ -135,7 +135,7 @@ namespace blackjack
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (0 < bakiye || 2000 <= bakiye)
+            if (2000 <= bakiye)
             {
                 bahis += 2000;
                 bakiye -= 2000;
@@ -150,7 +150,7 @@ namespace blackjack
 
         private void button4_Click(object sender, EventArgs e)
         {
-            if (0 < bakiye || 5000 <= bakiye)
+            if (5000 <= bakiye)
             {
                 bahis += 5000;
                 bakiye -= 5000;
@@ -229,6 +229,10 @@ namespace blackjack
             {
                 krupiyeas ++;
             }
+            if (krupiye <= 11 && krupiyeas == 1)
+            {
+                krupiye += 10;
+            }
             /*if(krupiye == 1)
             {
                 askr++;
@@ -261,7 +265,21 @@ namespace blackjack
                 playeras ++;
             }
 
+
             player += rndsay;
+            if(player <= 11 && playeras == 1)
+            {
+                player += 10;
+                if (player == 21)
+                {
+                    button6.Enabled = false;
+                }
+            }
+            if (player == 21)
+            {
+                button6.Enabled = false;
+            }
+
             /*look if (player == 1)
              {
                  aspl++;
@@ -317,8 +335,11 @@ namespace blackjack
                 button3.Enabled = false;
                 button4.Enabled = false;
                 button5.Enabled = false;
-                button6.Enabled = true;
+                if(player != 21){button6.Enabled = true;}
                 button7.Enabled = true;
+                button8.Enabled = false;
+                button9.Enabled = false;
+                textBox1.ReadOnly = false;
             }
             else 
             {
@@ -336,6 +357,9 @@ namespace blackjack
             button5.Enabled = true;
             button6.Enabled = false;
             button7.Enabled = false;
+            button8.Enabled = true;
+            button9.Enabled = true;
+            textBox1.ReadOnly = true;
             label1.Text = "Bahis: 0";
             pictureBox2.Image = Image.FromFile("cards/space.png");
             pictureBox3.Image = Image.FromFile("cards/space.png");
@@ -359,6 +383,8 @@ namespace blackjack
             kalsay = 0;
             bahis = 0;
             rehin = 0;
+            playeras = 0;
+            krupiyeas = 0;
             label3.Text = "Puan: 0";
             label4.Text = "Puan: 0";
         }
@@ -429,6 +455,10 @@ namespace blackjack
             {
                 playeras++;
             }//  ?
+            if (player <= 11 && playeras == 1)
+            {
+                player += 10;
+            }else
             player += rndsay;
             label4.Text = "Puan: " + player;
             //if (playeras > 1)
