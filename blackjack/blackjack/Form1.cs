@@ -339,7 +339,7 @@ namespace blackjack
                 button7.Enabled = true;
                 button8.Enabled = false;
                 button9.Enabled = false;
-                textBox1.ReadOnly = false;
+                textBox1.ReadOnly = true;
             }
             else 
             {
@@ -359,7 +359,7 @@ namespace blackjack
             button7.Enabled = false;
             button8.Enabled = true;
             button9.Enabled = true;
-            textBox1.ReadOnly = true;
+            textBox1.ReadOnly = false;
             label1.Text = "Bahis: 0";
             pictureBox2.Image = Image.FromFile("cards/space.png");
             pictureBox3.Image = Image.FromFile("cards/space.png");
